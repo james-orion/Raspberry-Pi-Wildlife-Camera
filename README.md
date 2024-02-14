@@ -23,31 +23,30 @@ Working alone also meant that all of the project ended up being on my plate whic
 I am excited to work more with my raspberry pi, and to have it and the knowledge of it to just mess around and make cool stuff with it when I have the chance without the stress of deadlines and course projects. Overall I did enjoy the project, despite all of the stress of the last few weeks it was really cool to have a project at the end that did what I intended it to do, and that I had built basically completely from scratch. 
 
 Works Cited: 
-9. API - The PiCamera Class — Picamera 1.13 Documentation. (n.d.). https://picamera.readthedocs.io/en/release-1.13/api_camera.html
-Admin. (2021, August 23). How does electrical grounding work? OneMonroe. https://monroeengineering.com/blog/how-does-electrical-grounding-work/#:~:text=Grounding%20works%20by%20leveraging%20the,to%20discharge%20through%20the%20ground.
-BC Robotics Inc. (2022, June 14). Sending an email using Python on the Raspberry Pi - BC Robotics. BC Robotics. https://bc-robotics.com/tutorials/sending-email-using-python-raspberry-pi/
-Circuit Diagram - a circuit diagram maker. (n.d.). https://www.circuit-diagram.org/
-Flask loop through images in static directory. (n.d.). Stack Overflow. https://stackoverflow.com/questions/47378820/flask-loop-through-images-in-static-directory
-GeeksforGeeks. (2019, May 20). Python  os.listdir  method. https://www.geeksforgeeks.org/python-os-listdir-method/
-GeeksforGeeks. (2022, May 30). Retrieving  HTML Form data using Flask. https://www.geeksforgeeks.org/retrieving-html-from-data-using-flask/
-Get Started with Pi Camera V2. (n.d.). Little Bird Electronics Guide. https://littlebirdelectronics.com.au/guides/198/get-started-with-pi-camera-v2
-Hattersley, R. (2021, September 18). Watch wildlife with a Raspberry Pi nature camera| Hackspace 33. Raspberry Pi. https://www.raspberrypi.com/news/watch-wildlife-with-a-raspberry-pi-nature-camera-hackspace-33/
-Help me to understand the two potmeters on my PIR sensor. (2016, March 16). Arduino Forum. https://forum.arduino.cc/t/help-me-to-understand-the-two-potmeters-on-my-pir-sensor/372895
-How to get current date and time in Python? (With Examples). (n.d.). https://www.programiz.com/python-programming/datetime/current-datetime
-How to kill a process that says “Operation not permitted” when attempted? (n.d.). Unix & Linux Stack Exchange. https://unix.stackexchange.com/questions/89316/how-to-kill-a-process-that-says-operation-not-permitted-when-attempted
-How to Receive Emails with the Flask Framework for Python. (n.d.). Sendgrid. https://sendgrid.com/en-us/blog/how-to-receive-emails-with-the-flask-framework-for-python
-How to save file on users local directory instead of server in flask? (n.d.). Stack Overflow. https://stackoverflow.com/questions/58782617/how-to-save-file-on-users-local-directory-instead-of-server-in-flask
-PIR Motion Sensor. (2014, January 28). Adafruit Learning System. https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview
-Problem recording video using Pi Camera v2 - Raspberry Pi Forums. (n.d.). https://forums.raspberrypi.com/viewtopic.php?t=210726
-Put all images from directory into HTML. (n.d.). Stack Overflow. https://stackoverflow.com/questions/33588691/put-all-images-from-directory-into-html
-raspberrypi.org. (n.d.-a). Getting Started with Pi Camera. projects.raspberrypi.org. https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
-raspberrypi.org. (n.d.-b). Physical Computing with Python. projects.raspberrypi.org. https://projects.raspberrypi.org/en/projects/physical-computing/11
-raspberrypi.org. (n.d.-c). Raspberry pi projects: Parent detector. projects.raspberrypi.org. https://projects.raspberrypi.org/en/projects/parent-detector/1
-RPI cam Web Interface - Raspberry Pi Forums. (n.d.). https://forums.raspberrypi.com/viewtopic.php?f=43&t=63276
-RPI-Cam-Web-Interface - eLinux.org. (n.d.). https://elinux.org/RPi-Cam-Web-Interface
-Run Pi camera from ssh. (n.d.). Raspberry Pi Stack Exchange. https://raspberrypi.stackexchange.com/questions/140040/run-pi-camera-from-ssh
-Santos, S., & Santos, S. (2023, July 13). Raspberry Pi: Motion Detection with Email Notifications (Python) | Random Nerd Tutorials. Random Nerd Tutorials. https://randomnerdtutorials.com/raspberry-pi-motion-email-python/#:~:text=In%20this%20project%2C%20you%E2%80%99ll,ll%20use%20the%20gpiozero%20interface.
-using flask to display image files on my pi - Raspberry Pi Forums. (n.d.). https://forums.raspberrypi.com/viewtopic.php?t=58768
-Vcc and Vss pins. (n.d.). https://www.tutorialspoint.com/vcc-and-vss-pins#:~:text=VCC%20(Voltage%20Common%20Collector)%20is,Supply)%20means%20ground%20or%20zero.
-Wittwer, J. (n.d.). Gantt Chart Template for Excel. Vertex42.com. https://www.vertex42.com/ExcelTemplates/excel-gantt-chart.html
- 
+* 9. API - The PiCamera Class — Picamera 1.13 Documentation. (n.d.). https://picamera.readthedocs.io/en/release-1.13/api_camera.html
+* Admin. (2021, August 23). How does electrical grounding work? OneMonroe. https://monroeengineering.com/blog/how-does-electrical-grounding-work/#:~:text=Grounding%20works%20by%20leveraging%20the,to%20discharge%20through%20the%20ground.
+* BC Robotics Inc. (2022, June 14). Sending an email using Python on the Raspberry Pi - BC Robotics. BC Robotics. https://bc-robotics.com/tutorials/sending-email-using-python-raspberry-pi/
+* Circuit Diagram - a circuit diagram maker. (n.d.). https://www.circuit-diagram.org/
+* Flask loop through images in static directory. (n.d.). Stack Overflow. https://stackoverflow.com/questions/47378820/flask-loop-through-images-in-static-directory
+* GeeksforGeeks. (2019, May 20). Python  os.listdir  method. https://www.geeksforgeeks.org/python-os-listdir-method/
+* GeeksforGeeks. (2022, May 30). Retrieving  HTML Form data using Flask. https://www.geeksforgeeks.org/retrieving-html-from-data-using-flask/
+* Get Started with Pi Camera V2. (n.d.). Little Bird Electronics Guide. https://littlebirdelectronics.com.au/guides/198/get-started-with-pi-camera-v2
+* Hattersley, R. (2021, September 18). Watch wildlife with a Raspberry Pi nature camera| Hackspace 33. Raspberry Pi. https://www.raspberrypi.com/news/watch-wildlife-with-a-raspberry-pi-nature-camera-hackspace-33/
+* Help me to understand the two potmeters on my PIR sensor. (2016, March 16). Arduino Forum. https://forum.arduino.cc/t/help-me-to-understand-the-two-potmeters-on-my-pir-sensor/372895
+* How to get current date and time in Python? (With Examples). (n.d.). https://www.programiz.com/python-programming/datetime/current-datetime
+* How to kill a process that says “Operation not permitted” when attempted? (n.d.). Unix & Linux Stack Exchange. https://unix.stackexchange.com/questions/89316/how-to-kill-a-process-that-says-operation-not-permitted-when-attempted
+* How to Receive Emails with the Flask Framework for Python. (n.d.). Sendgrid. https://sendgrid.com/en-us/blog/how-to-receive-emails-with-the-flask-framework-for-python
+* How to save file on users local directory instead of server in flask? (n.d.). Stack Overflow. https://stackoverflow.com/questions/58782617/how-to-save-file-on-users-local-directory-instead-of-server-in-flask
+* PIR Motion Sensor. (2014, January 28). Adafruit Learning System. https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor/overview
+* Problem recording video using Pi Camera v2 - Raspberry Pi Forums. (n.d.). https://forums.raspberrypi.com/viewtopic.php?t=210726
+* Put all images from directory into HTML. (n.d.). Stack Overflow. https://stackoverflow.com/questions/33588691/put-all-images-from-directory-into-html
+* raspberrypi.org. (n.d.-a). Getting Started with Pi Camera. projects.raspberrypi.org. https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+* raspberrypi.org. (n.d.-b). Physical Computing with Python. projects.raspberrypi.org. https://projects.raspberrypi.org/en/projects/physical-computing/11
+* raspberrypi.org. (n.d.-c). Raspberry pi projects: Parent detector. projects.raspberrypi.org. https://projects.raspberrypi.org/en/projects/parent-detector/1
+* RPI cam Web Interface - Raspberry Pi Forums. (n.d.). https://forums.raspberrypi.com/viewtopic.php?f=43&t=63276
+* RPI-Cam-Web-Interface - eLinux.org. (n.d.). https://elinux.org/RPi-Cam-Web-Interface
+* Run Pi camera from ssh. (n.d.). Raspberry Pi Stack Exchange. https://raspberrypi.stackexchange.com/questions/140040/run-pi-camera-from-ssh
+* Santos, S., & Santos, S. (2023, July 13). Raspberry Pi: Motion Detection with Email Notifications (Python) | Random Nerd Tutorials. Random Nerd Tutorials. https://randomnerdtutorials.com/raspberry-pi-motion-email-python/#:~:text=In%20this%20project%2C%20you%E2%80%99ll,ll%20use%20the%20gpiozero%20interface.
+* using flask to display image files on my pi - Raspberry Pi Forums. (n.d.). https://forums.raspberrypi.com/viewtopic.php?t=58768
+* Vcc and Vss pins. (n.d.). https://www.tutorialspoint.com/vcc-and-vss-pins#:~:text=VCC%20(Voltage%20Common%20Collector)%20is,Supply)%20means%20ground%20or%20zero.
+* Wittwer, J. (n.d.). Gantt Chart Template for Excel. Vertex42.com. https://www.vertex42.com/ExcelTemplates/excel-gantt-chart.html
